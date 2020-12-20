@@ -1,0 +1,14 @@
+Environment used
+------------------
+
+My sql in XAmpp server for data base
+pycahrm  as IDE
+
+
+create a database with name - credir_card and export sql file in to that Data base
+
+admin logins
+--------------
+
+username = admin@test.com
+password = newpassword
