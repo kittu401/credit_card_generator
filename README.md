@@ -2,6 +2,9 @@
 
 This is a simple flask project.
 
+# steps to follow
+ * create database with credir_card and import that .sql file so that tables will be created with test data
+
 There are 2 sections in this 
 # 1.) Admin
   * admin can login
